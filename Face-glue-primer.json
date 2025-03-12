@@ -18,7 +18,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/KV-mobile.jpg",
+                "value": "./KV-mobile.jpg",
                 "element": "img",
                 "alt": "NYX Face Glue Primer",
                 "properties": []
@@ -40,7 +40,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/KV.jpg",
+                "value": "./KV.jpg",
                 "element": "img",
                 "alt": "NYX Face Glue Primer",
                 "properties": []
@@ -93,7 +93,7 @@
               },
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-02.jpg",
+                "value": "./MOD-02.jpg",
                 "element": "img",
                 "alt": "Efekty",
                 "properties": []
@@ -171,7 +171,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "http://localhost:8000/images/MOD-03-A.jpg",
+                "value": "./MOD-03-A.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -200,7 +200,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "http://localhost:8000/images/MOD-03-B.jpg",
+                "value": "./MOD-03-B.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -229,7 +229,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "http://localhost:8000/images/MOD-03-C.jpg",
+                "value": "./MOD-03-C.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -258,7 +258,7 @@
               },
               {
                 "name": "columnFourAsset",
-                "value": "http://localhost:8000/images/MOD-03-D.jpg",
+                "value": "./MOD-03-D.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -335,7 +335,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "http://localhost:8000/images/MOD-04-A.jpg",
+                "value": "./MOD-04-A.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -364,7 +364,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "http://localhost:8000/images/MOD-04-B.jpg",
+                "value": "./MOD-04-B.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -393,7 +393,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "http://localhost:8000/images/MOD-04-C.jpg",
+                "value": "./MOD-04-C.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -422,7 +422,7 @@
               },
               {
                 "name": "columnFourAsset",
-                "value": "http://localhost:8000/images/MOD-04-D.jpg",
+                "value": "./MOD-04-D.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -451,7 +451,7 @@
               },
               {
                 "name": "columnFiveAsset",
-                "value": "http://localhost:8000/images/MOD-04-E.jpg",
+                "value": "./MOD-04-E.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -547,7 +547,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "http://localhost:8000/images/MOD-06-A.jpg",
+                "value": "./MOD-06-A.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -576,7 +576,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "http://localhost:8000/images/MOD-06-B.jpg",
+                "value": "./MOD-06-B.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -605,7 +605,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "http://localhost:8000/images/MOD-06-C.jpg",
+                "value": "./MOD-06-C.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
