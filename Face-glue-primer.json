@@ -18,7 +18,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV-mobile.jpg",
+                "value": "KV-mobile.jpg",
                 "element": "img",
                 "alt": "NYX Face Glue Primer",
                 "properties": []
@@ -40,7 +40,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV.jpg",
+                "value": "KV.jpg",
                 "element": "img",
                 "alt": "NYX Face Glue Primer",
                 "properties": []
@@ -95,7 +95,7 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-02.jpg",
+                "value": "MOD-02.jpg",
                 "element": "img",
                 "alt": "Efekty",
                 "properties": []
@@ -173,7 +173,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./MOD-03-A.jpg",
+                "value": "MOD-03-A.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -202,7 +202,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./MOD-03-B.jpg",
+                "value": "MOD-03-B.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -231,7 +231,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./MOD-03-C.jpg",
+                "value": "MOD-03-C.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -260,7 +260,7 @@
               },
               {
                 "name": "columnFourAsset",
-                "value": "./MOD-03-D.jpg",
+                "value": "MOD-03-D.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -337,7 +337,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./MOD-04-A.jpg",
+                "value": "MOD-04-A.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -366,7 +366,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./MOD-04-B.jpg",
+                "value": "MOD-04-B.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -395,7 +395,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./MOD-04-C.jpg",
+                "value": "MOD-04-C.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -424,7 +424,7 @@
               },
               {
                 "name": "columnFourAsset",
-                "value": "./MOD-04-D.jpg",
+                "value": "MOD-04-D.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -453,7 +453,7 @@
               },
               {
                 "name": "columnFiveAsset",
-                "value": "./MOD-04-E.jpg",
+                "value": "MOD-04-E.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -549,7 +549,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./MOD-06-A.jpg",
+                "value": "MOD-06-A.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -578,7 +578,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./MOD-06-B.jpg",
+                "value": "MOD-06-B.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -607,7 +607,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./MOD-06-C.jpg",
+                "value": "MOD-06-C.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
